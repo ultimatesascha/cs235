@@ -1,0 +1,17 @@
+﻿  Archer.cpp
+  Arena.cpp
+c:\users\bandn\desktop\cs235labs\lab1-rpg\lab1-rpg\arena.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\bandn\desktop\cs235labs\lab1-rpg\lab1-rpg\arena.cpp(73): error C2061: syntax error: identifier 'Archer'
+c:\users\bandn\desktop\cs235labs\lab1-rpg\lab1-rpg\arena.cpp(76): error C2061: syntax error: identifier 'Cleric'
+c:\users\bandn\desktop\cs235labs\lab1-rpg\lab1-rpg\arena.cpp(79): error C2061: syntax error: identifier 'Robot'
+c:\users\bandn\desktop\cs235labs\lab1-rpg\lab1-rpg\arena.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\bandn\desktop\cs235labs\lab1-rpg\lab1-rpg\arena.cpp(136): warning C4018: '<': signed/unsigned mismatch
+  Cleric.cpp
+  Fighter.cpp
+  main.cpp
+c:\users\bandn\desktop\cs235labs\lab1-rpg\lab1-rpg\main.cpp(31): error C2259: 'Arena': cannot instantiate abstract class
+  c:\users\bandn\desktop\cs235labs\lab1-rpg\lab1-rpg\main.cpp(31): note: due to following members:
+  c:\users\bandn\desktop\cs235labs\lab1-rpg\lab1-rpg\main.cpp(31): note: 'int ArenaInterface::getSize(void) const': is abstract
+  c:\users\bandn\desktop\cs235labs\lab1-rpg\lab1-rpg\arenainterface.h(56): note: see declaration of 'ArenaInterface::getSize'
+  Robot.cpp
+  Generating Code...
