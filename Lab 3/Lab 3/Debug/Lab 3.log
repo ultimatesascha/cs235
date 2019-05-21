@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\bandn\desktop\cs235labs\lab3-maps-master\lab 3\lab 3\main.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\bandn\desktop\cs235labs\lab3-maps-master\lab 3\lab 3\main.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\bandn\desktop\cs235labs\lab3-maps-master\lab 3\lab 3\main.cpp(98): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab 3.vcxproj -> C:\Users\bandn\Desktop\CS235Labs\Lab3-Maps-master\Lab 3\Debug\Lab 3.exe
