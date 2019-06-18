@@ -1,0 +1,7 @@
+﻿  BST.cpp
+  Node.cpp
+  main.cpp
+  Generating Code...
+c:\users\bandn\desktop\cs235labs\lab7-bst-master\lab7\lab7\bst.cpp(180): warning C4715: 'BST::takeOut': not all control paths return a value
+c:\users\bandn\desktop\cs235labs\lab7-bst-master\lab7\lab7\bst.cpp(27): warning C4715: 'find': not all control paths return a value
+  Lab7.vcxproj -> C:\Users\bandn\Desktop\CS235Labs\Lab7-BST-master\Lab7\Debug\Lab7.exe
